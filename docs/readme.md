@@ -1,6 +1,6 @@
 # 🔗 Live Demo
 
-👉 **https://YOUR-LIVE-DEPLOYMENT-URL.com**
+👉 **https://escaliburcalibur.github.io/Portfolio-DavidBayon-Final/**
 
 ---
 
@@ -60,7 +60,7 @@ No frameworks or build tools are required.
 
 4. **View in browser**
    ```
-   http://localhost:3000
+   https://escaliburcalibur.github.io/Portfolio-DavidBayon-Final/
    ```
 
 ---
